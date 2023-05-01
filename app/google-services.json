@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63956304279",
+    "project_id": "projectname-19eb3",
+    "storage_bucket": "projectname-19eb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63956304279:android:4b7881fcfefefb90b244d2",
+        "android_client_info": {
+          "package_name": "com.zybooks.myappdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63956304279-4n0e100p61rk1v75n1ege18ppiva9pcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwMaeDGcnuDBxK1NrERtvW4m6tC9TdRzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63956304279-4n0e100p61rk1v75n1ege18ppiva9pcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
